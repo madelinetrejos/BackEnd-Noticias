@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "obbYABEWBhXMUk8spd3jes0aYDsBX8uKlzpYUqUkOAKoNh5osUJ5dxRNYJ/wL/CppmO3GXoPmV708mOxFUPmbQ==",
+  "dgSpecHash": "QdPfx1GKBTgfnih/pvC2e/GOpNXmu85EHFiNqfr1/Xyr66raT1mkW77HaQZ39ZRxSweyysIav5pAXSRhqPefRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\BackEnd-Noticias\\Noticias\\Noticias\\Noticias.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\source\\repos\\BackEnd-Noticias\\Noticias\\Noticias\\Noticias.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
