@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace TheHomingPigeon.Model
 {
-    public class User
-    {
+ 
         public class User
         {
 
@@ -23,5 +22,5 @@ namespace TheHomingPigeon.Model
             public string username { get; set; }
             public string email { get; set; }
         }
-    }
+    
 }

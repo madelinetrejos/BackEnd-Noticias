@@ -1,0 +1,12 @@
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Model\bin\Debug\net6.0\TheHomingPigeon.Model.deps.json
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Model\bin\Debug\net6.0\TheHomingPigeon.Model.dll
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Model\bin\Debug\net6.0\TheHomingPigeon.Model.pdb
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Model\obj\Debug\net6.0\TheHomingPigeon.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Model\obj\Debug\net6.0\TheHomingPigeon.Model.AssemblyInfoInputs.cache
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Model\obj\Debug\net6.0\TheHomingPigeon.Model.AssemblyInfo.cs
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Model\obj\Debug\net6.0\TheHomingPigeon.Model.csproj.CoreCompileInputs.cache
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Model\obj\Debug\net6.0\TheHomingPigeon.Model.sourcelink.json
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Model\obj\Debug\net6.0\TheHomingPigeon.Model.dll
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Model\obj\Debug\net6.0\refint\TheHomingPigeon.Model.dll
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Model\obj\Debug\net6.0\TheHomingPigeon.Model.pdb
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Model\obj\Debug\net6.0\ref\TheHomingPigeon.Model.dll

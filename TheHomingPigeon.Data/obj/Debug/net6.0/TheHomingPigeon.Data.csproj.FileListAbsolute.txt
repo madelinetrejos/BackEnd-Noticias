@@ -1,0 +1,16 @@
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Data\bin\Debug\net6.0\TheHomingPigeon.Data.deps.json
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Data\bin\Debug\net6.0\TheHomingPigeon.Data.dll
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Data\bin\Debug\net6.0\TheHomingPigeon.Data.pdb
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Data\bin\Debug\net6.0\TheHomingPigeon.Model.dll
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Data\bin\Debug\net6.0\TheHomingPigeon.Model.pdb
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Data\obj\Debug\net6.0\TheHomingPigeon.Data.csproj.AssemblyReference.cache
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Data\obj\Debug\net6.0\TheHomingPigeon.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Data\obj\Debug\net6.0\TheHomingPigeon.Data.AssemblyInfoInputs.cache
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Data\obj\Debug\net6.0\TheHomingPigeon.Data.AssemblyInfo.cs
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Data\obj\Debug\net6.0\TheHomingPigeon.Data.csproj.CoreCompileInputs.cache
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Data\obj\Debug\net6.0\TheHomingPigeon.Data.sourcelink.json
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Data\obj\Debug\net6.0\TheHomingPigeon.Data.csproj.CopyComplete
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Data\obj\Debug\net6.0\TheHomingPigeon.Data.dll
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Data\obj\Debug\net6.0\refint\TheHomingPigeon.Data.dll
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Data\obj\Debug\net6.0\TheHomingPigeon.Data.pdb
+C:\Users\madel\OneDrive\Documents\Final_Distribuida_M_A\TheHomingPigeon.Data\obj\Debug\net6.0\ref\TheHomingPigeon.Data.dll

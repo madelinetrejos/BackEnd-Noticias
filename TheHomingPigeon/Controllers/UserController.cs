@@ -1,13 +1,14 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
-using TheHomingPigeon.Data.Interface;
 using TheHomingPigeon.Model;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 using Microsoft.AspNetCore.Authorization;
 using TheHomingPigeon.Middlewares;
+using TheHomingPigeon.Data.Interface;
+
 
 namespace TheHomingPigeon.Controllers
 {
@@ -37,7 +38,7 @@ namespace TheHomingPigeon.Controllers
                 return result;
             }
 
-            var users = await _userRepository.GetUsers();
+            var users = await _userRepository.GetActiveUsers();
 
             return Ok(users);
         }
@@ -54,14 +55,28 @@ namespace TheHomingPigeon.Controllers
                 return BadRequest(ModelState);
             }
 
-            //var token = HttpContext.Request.Headers["Token"].FirstOrDefault()?.Split(" ").Last();
+            var token = HttpContext.Request.Headers["Token"].FirstOrDefault()?.Split(" ").Last();
 
-            //var result = await _jwtValidateController.HandleTokenValidation(token);
+            var result = await _jwtValidateController.HandleTokenValidation(token);
 
-            //if (result != null)
-            //{
-            //    return result;
-            //}
+            if (result != null)
+            {
+                return result;
+            }
+
+            var validateExistUser = await _userRepository.ValidateExistUser(user.username);
+
+            if (validateExistUser)
+            {
+                var responseExistUser = new
+                {
+                    success = false,
+                    message = "El usuario ya está registrado en el sistema, verifique que no esté deshabilitado",
+                    result = false
+                };
+
+                return Conflict(responseExistUser);
+            }
 
             await _userRepository.InsertUser(user);
 
