@@ -19,7 +19,7 @@ namespace TheHomingPigeon.Data.Interface
 
         public async Task<IEnumerable<UserResponse>> GetActiveUsers()
         {
-            var sql = @"SELECT user.id_user, CONCAT(user.name, ' ', user.lastname) AS full_name, rol.rol FROM tb_user user INNER JOIN tb_rol rol ON user.id_rol = rol.id_rol";
+            var sql = @"SELECT iduser, username, email FROM user";
 
             return await _dbConnection.QueryAsync<UserResponse>(sql, new { });
         }
@@ -28,7 +28,7 @@ namespace TheHomingPigeon.Data.Interface
         {
             var hasPassword = BCrypt.Net.BCrypt.HashPassword(user.password);
 
-            var sql = @"INSERT INTO tb_user (name, lastname, username, password, id_rol, status_active) VALUES (@name, @lastname, @username, @hasPassword, @id_rol, 1)";
+            var sql = @"INSERT INTO user (name, lastname, username, password, status_active) VALUES (@name, @lastname, @username, @hasPassword, )";
 
             var rowsAffected = await _dbConnection.ExecuteAsync(sql, new {  user.username, hasPassword});
 
@@ -37,7 +37,7 @@ namespace TheHomingPigeon.Data.Interface
 
         public async Task<bool> ValidateExistUser(string username)
         {
-            var sql = @"SELECT * FROM tb_user WHERE username = @Username AND status_active = 1";
+            var sql = @"SELECT * FROM user WHERE username = @Username AND status_active = 1";
 
             var result = await _dbConnection.QueryFirstOrDefaultAsync<int>(sql, new { Username = username });
 

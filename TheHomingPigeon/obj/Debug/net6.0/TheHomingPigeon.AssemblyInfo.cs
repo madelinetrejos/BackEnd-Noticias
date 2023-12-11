@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheHomingPigeon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e94138d0cee398b66da74b62d3b03f513ef639b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2140b9dc0011a65ecacc38259cff4cb0ead2562")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheHomingPigeon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheHomingPigeon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
