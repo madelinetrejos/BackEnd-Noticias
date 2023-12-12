@@ -49,6 +49,7 @@
   <ItemGroup>
     <Compile Include="Jwt.cs" />
     <Compile Include="Login.cs" />
+    <Compile Include="Noticias.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="User.cs" />
   </ItemGroup>

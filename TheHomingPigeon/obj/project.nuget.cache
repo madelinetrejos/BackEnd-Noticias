@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pLNr9540l1oqxHJeMYEg7DkiwKclUO3BLyD5F8uHtO9dmg4pVz3d61vI0Gkh8vLguO1wVVqUfr/H2q0kgCD5qg==",
+  "dgSpecHash": "+i/9Thlfnf0ItNgiapfjKa5V+q8lj218r4FKUFcy7/QegyAsRGL3IEes7nZm4nUkspmX+waRNpk4ET2bgyrFEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Distribuida\\BackEnd-Noticias\\TheHomingPigeon\\TheHomingPigeon.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\BackEnd-Noticias\\TheHomingPigeon\\TheHomingPigeon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\bcrypt.net-next.strongname\\4.0.3\\bcrypt.net-next.strongname.4.0.3.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

@@ -9,3 +9,5 @@ C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon.Model\bin\De
 C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon.Model\bin\Debug\MySql.Data.dll
 C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon.Model\bin\Debug\Dapper.xml
 C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon.Model\obj\Debug\TheHomingPigeon.Model.csproj.CopyComplete
+C:\Users\Admin\Documents\BackEnd-Noticias\TheHomingPigeon.Model\obj\Debug\TheHomingPigeon.Model.dll
+C:\Users\Admin\Documents\BackEnd-Noticias\TheHomingPigeon.Model\obj\Debug\TheHomingPigeon.Model.pdb
