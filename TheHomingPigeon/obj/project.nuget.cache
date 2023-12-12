@@ -1,12 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9WUcu9qCULygFSmjdhbI3kCnIuPSFbDDi//Q3dnUd5jFFADv5IZMWKL1fuycFzk+JqhVeuOXTE/Qvz07l7fCbA==",
+  "dgSpecHash": "pLNr9540l1oqxHJeMYEg7DkiwKclUO3BLyD5F8uHtO9dmg4pVz3d61vI0Gkh8vLguO1wVVqUfr/H2q0kgCD5qg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Documents\\Final_M_A\\BackEnd-Noticias\\TheHomingPigeon\\TheHomingPigeon.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Distribuida\\BackEnd-Noticias\\TheHomingPigeon\\TheHomingPigeon.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\bcrypt.net-next.strongname\\4.0.3\\bcrypt.net-next.strongname.4.0.3.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\dapper\\2.1.24\\dapper.2.1.24.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.25\\microsoft.aspnetcore.authentication.jwtbearer.6.0.25.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.9\\microsoft.aspnetcore.authorization.6.0.9.nupkg.sha512",

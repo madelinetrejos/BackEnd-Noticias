@@ -168,3 +168,13 @@ C:\Users\Admin\Documents\Final_M_A\BackEnd-Noticias\TheHomingPigeon\obj\Debug\ne
 C:\Users\Admin\Documents\Final_M_A\BackEnd-Noticias\TheHomingPigeon\obj\Debug\net6.0\TheHomingPigeon.pdb
 C:\Users\Admin\Documents\Final_M_A\BackEnd-Noticias\TheHomingPigeon\obj\Debug\net6.0\TheHomingPigeon.genruntimeconfig.cache
 C:\Users\Admin\Documents\Final_M_A\BackEnd-Noticias\TheHomingPigeon\obj\Debug\net6.0\ref\TheHomingPigeon.dll
+C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon\obj\Debug\net6.0\TheHomingPigeon.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon\obj\Debug\net6.0\TheHomingPigeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon\obj\Debug\net6.0\TheHomingPigeon.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon\obj\Debug\net6.0\TheHomingPigeon.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon\obj\Debug\net6.0\TheHomingPigeon.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon\obj\Debug\net6.0\TheHomingPigeon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon\obj\Debug\net6.0\TheHomingPigeon.sourcelink.json
+C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon\obj\Debug\net6.0\TheHomingPigeon.dll
+C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon\obj\Debug\net6.0\refint\TheHomingPigeon.dll
+C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon\obj\Debug\net6.0\TheHomingPigeon.pdb

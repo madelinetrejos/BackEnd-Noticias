@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon.Data\obj\Debug\TheHomingPigeon.Data.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon.Data\obj\Debug\TheHomingPigeon.Data.csproj.CoreCompileInputs.cache

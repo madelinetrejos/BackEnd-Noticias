@@ -1,17 +1,14 @@
-﻿using Dapper;
-using MySql.Data.MySqlClient;
-using TheHomingPigeon.Data;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using TheHomingPigeon.Data.Interface;
 using TheHomingPigeon.Model;
+using MySql.Data.MySqlClient;
+using Dapper;
+
+
 
 namespace TheHomingPigeon.Data.Repositories
 {
-    public class LoginRepository: ILoginRepository
+    public class LoginRepository : ILoginRepository
     {
         private readonly MySqlConnection _dbConnection;
 
@@ -26,12 +23,6 @@ namespace TheHomingPigeon.Data.Repositories
             return await _dbConnection.QueryFirstOrDefaultAsync<Login>(sql, new { Username = username });
         }
 
-        public async Task<bool> ValidatePassword(string password, string hash)
-        {
-
-            bool verified = BCrypt.Net.BCrypt.Verify(password, hash);
-
-            return await Task.Run(() => BCrypt.Net.BCrypt.Verify(password, hash)); ;
-        }
+      
     }
 }

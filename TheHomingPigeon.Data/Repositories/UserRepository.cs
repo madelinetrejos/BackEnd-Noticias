@@ -5,6 +5,7 @@ using TheHomingPigeon.Model;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using System;
+using System.Data.SqlClient;
 
 namespace TheHomingPigeon.Data.Interface
 {
@@ -30,7 +31,7 @@ namespace TheHomingPigeon.Data.Interface
 
             var sql = @"INSERT INTO user (name, lastname, username, password, status_active) VALUES (@name, @lastname, @username, @hasPassword, )";
 
-            var rowsAffected = await _dbConnection.ExecuteAsync(sql, new {  user.username, hasPassword});
+            var rowsAffected = await _dbConnection.ExecuteAsync(sql, new { user.username, hasPassword });
 
             return rowsAffected > 0;
         }

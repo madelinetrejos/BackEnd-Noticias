@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon.Model\bin\Debug\TheHomingPigeon.Model.dll
+C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon.Model\bin\Debug\TheHomingPigeon.Model.pdb
+C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon.Model\obj\Debug\TheHomingPigeon.Model.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon.Model\obj\Debug\TheHomingPigeon.Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon.Model\obj\Debug\TheHomingPigeon.Model.dll
+C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon.Model\obj\Debug\TheHomingPigeon.Model.pdb
+C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon.Model\bin\Debug\TheHomingPigeon.Model.dll.config
+C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon.Model\bin\Debug\Dapper.dll
+C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon.Model\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon.Model\bin\Debug\Dapper.xml
+C:\Users\Admin\Desktop\Distribuida\BackEnd-Noticias\TheHomingPigeon.Model\obj\Debug\TheHomingPigeon.Model.csproj.CopyComplete
